@@ -1,0 +1,42 @@
+
+:root {
+    --cor0: #124D12;
+    --cor1: #32CD32;
+    --cor2: #FFFFFF;
+    --cor3: #294D29;
+    --cor4: #804518;
+    --cor5: #CC691D;
+
+}
+
+body {
+    background-color: var(--cor4);
+    width: 600px;
+    max-width: 100%;
+    margin-top: 0;      /*para cima*/
+    margin-bottom: 0;   /*para baixo*/
+    margin-left: auto;  /*esquerda*/
+    margin-right: auto; /*direita*/
+    color: var(--cor0);
+}
+
+img {
+    width: 100%;
+}
+
+div.center {
+    text-align: center;
+}
+
+h1 {
+    color:#32CD32 
+}
+
+p {
+    color:#FFFFFF;
+}
+
+ul {
+    color:#FFFFFF;
+}
+
